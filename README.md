@@ -3,7 +3,7 @@
 ## 環境
 
 ```sh
-python -V  # >= Python 3.10.9
+python -V  # >= Python 3.10.9 (LTS なら OK)
 python -m pip install -r requirements.txt
 ```
 
